@@ -35,4 +35,8 @@ To run this project, you need to have Python 3 and the following libraries insta
 - `scipy` – For solving differential equations
 - `matplotlib` – For plotting graphs
 
+## Solution
+
+Graphs and phase portrait outputs from the python code are included in the folder to display the results.
+
 
