@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project, based on Strogatz's mathematical model of love, analyzes if people with the same romantic style attract each other. It simulates and visualizes the dynamics of Romeo and Juliet’s relationship using  mathematical models with systems of differential. The models investigate how individuals with similar romantic tendencies (as defined by their parameters) might behave in a relationship over time using eigenvectors and phase portraits.
+This project, based on Strogatz's mathematical model of love, analyzes if people with the same romantic style attract each other. It simulates and visualizes the dynamics of Romeo and Juliet’s relationship using  mathematical models with systems of differential equations. The models investigate how individuals with similar romantic tendencies (as defined by their parameters) might behave in a relationship over time using eigenvectors and phase portraits.
 
 ### Models:
 
